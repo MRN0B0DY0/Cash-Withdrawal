@@ -1,0 +1,15 @@
+.withdraw-button {
+  background-color: transparent;
+  border: 1px solid #d4d2db;
+  color: #d4d2db;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+  transition: background 0.2s;
+}
+
+.withdraw-button:hover {
+  background-color: #382f5a;
+}
